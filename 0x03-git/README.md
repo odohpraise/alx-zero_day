@@ -1,1 +1,1 @@
-Teaching Git
+learning about GIT
